@@ -1,0 +1,21 @@
+body {
+	font-family: Calibri;
+}
+p {
+	font-size: 17pt;
+	color: #8c8c8c;
+}
+li {
+	font-size: 15pt;
+	color: #8c8c8c;
+}
+h1 {
+	color: blue;
+	text-align: center;
+}
+h2 {
+	color:red;
+}
+a {
+	text-decoration: none;
+}
